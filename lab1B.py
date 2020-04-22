@@ -1,25 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 16 12:13:13 2019
-
-@author: nana
-Machine Learning - COMP-10200-02
-
-Lab 2 B : pick up the data set from the requised website, 
-splite the file into testing set & training set
-draw three graphes about two features
-report the min, max, average and median for testing set & training set for each row in the file
-
  
-
-"""
-
-
-#I, Bohan Gou, 000360941 certify that this material is my original work.
-# No other person's work has been used without due acknowledgement.
-# I have not made my work available to anyone else
-
 
 import numpy as np
 import matplotlib.pyplot as plt
